@@ -5,7 +5,7 @@
 AI-powered financial planning platform providing educational investment guidance for Indian investors.
 
 ## 🎯 Live Demo
-[View Platform](https://northstar-wealth-financial-planning.netlify.app) *(will be updated after deployment)*
+[View Platform](https://northstar-wealth-financial-planning.netlify.app)
 
 ## ✨ Features
 - 7-question AI risk assessment (140-point algorithm)
