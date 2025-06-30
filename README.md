@@ -22,7 +22,7 @@ AI-powered financial planning platform providing educational investment guidance
 - Deployed on Netlify
 
 ## 🎬 Demo Video
-*Coming soon - 3-minute walkthrough*
+[*Platform walkthrough*](https://youtu.be/0sCTmVw9tjA)
 
 ## 🏆 Purpose
 This platform addresses India's investment education gap by making financial planning concepts accessible to everyone.
